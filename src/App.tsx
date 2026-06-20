@@ -205,7 +205,6 @@ export default function App() {
                   initialInputs={currentInputs}
                   onGenerate={handleGenerate}
                   isLoading={isLoading}
-                  onOpenSettings={() => setIsSettingsOpen(true)}
                 />
               </motion.div>
             )}

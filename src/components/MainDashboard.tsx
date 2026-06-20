@@ -31,15 +31,10 @@ import {
   Trophy,
   FolderClosed,
   ChevronRight,
-  ArrowUpRight,
-  Cpu,
   HeartPulse,
   Leaf,
   GraduationCap,
   Building,
-  DollarSign,
-  User,
-  Activity,
   Clock
 } from 'lucide-react';
 
@@ -48,15 +43,13 @@ interface MainDashboardProps {
   initialInputs: FormInputs | null;
   onGenerate: (inputs: FormInputs) => void;
   isLoading: boolean;
-  onOpenSettings: () => void;
 }
 
 export default function MainDashboard({ 
   initialBlueprint, 
   initialInputs, 
   onGenerate, 
-  isLoading,
-  onOpenSettings
+  isLoading
 }: MainDashboardProps) {
   // View states: 'archive' | 'new' | 'templates' | 'team' | 'settings' | 'active'
   const [viewState, setViewState] = useState<'archive' | 'new' | 'templates' | 'team' | 'settings' | 'active'>('archive');
@@ -161,7 +154,7 @@ export default function MainDashboard({
                           item.inputs.skills.toLowerCase().includes(searchQuery.toLowerCase());
     const matchesTheme = themeFilter === 'All Themes' || item.inputs.goal === themeFilter || item.blueprint.projectName.includes(themeFilter);
     return matchesSearch && matchesTheme;
-  }).sort((a, b) => {
+  }).sort((_a, _b) => {
     if (sortBy === 'Latest') {
       return 0;
     } else {
@@ -251,11 +244,6 @@ export default function MainDashboard({
         </span>
       </div>
     );
-  };
-
-  const sidebarVariants = {
-    hidden: { opacity: 0, x: -10 },
-    visible: { opacity: 1, x: 0, transition: { duration: 0.6, ease: [0.16, 1, 0.3, 1] as const } }
   };
 
   const contentVariants = {
