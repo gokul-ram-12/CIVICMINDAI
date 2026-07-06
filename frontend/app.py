@@ -279,7 +279,7 @@ def get_dataset_summary(df: pd.DataFrame) -> dict:
 def main():
     load_dotenv()
     
-    env_key = os.getenv("GEMINI_API_KEY", "")
+    env_key = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6L2z5kSW-ADiwDoYH_Gus6-PIiRwvd8xVYyYQHKRUvSLQ")
     if "api_key" not in st.session_state:
         st.session_state.api_key = env_key
         if env_key:
@@ -341,6 +341,7 @@ def main():
     user_api_key = st.sidebar.text_input(
         "Google Gemini API Key",
         value=st.session_state.api_key,
+        type="password",
         help="Input your Gemini API Key here to run multi-agent diagnostics and simulations."
     )
     
