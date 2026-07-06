@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+.git/
+.gitignore
+.streamlit/secrets.toml
+node_modules/
+dist/
+build/
+*.log
+.DS_Store

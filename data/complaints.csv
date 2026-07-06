@@ -1,0 +1,201 @@
+ticket_id,timestamp,category,issue_type,zone,priority,status,description
+CIV-1144,2026-05-24 02:47:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,Resolved,Tap water appears cloudy and has an unusual chlorine odor. Located near 90 Elm St.
+CIV-1041,2026-05-24 05:47:00,Public Services,Overfilled Public Bin,Zone C (South/Commercial),Low,Resolved,"Public trash can is overflowing, causing litter to blow into the park. Located near 91 Maple Ln."
+CIV-1050,2026-05-24 09:18:00,Environment,Air Quality Alert,Zone B (East/Industrial),Medium,Resolved,Strong chemical odor detected in the air near the industrial park. Located near 236 River Rd.
+CIV-1102,2026-05-24 09:46:00,Public Services,Overfilled Public Bin,Zone C (South/Commercial),Medium,Resolved,"Public trash can is overflowing, causing litter to blow into the park. Located near 285 River Rd."
+CIV-1071,2026-05-24 13:52:00,Safety,Sidewalk Obstruction,Zone D (West/Downtown),High,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 372 River Rd."
+CIV-1106,2026-05-24 23:09:00,Public Services,Overfilled Public Bin,Zone D (West/Downtown),Medium,Resolved,"Public trash can is overflowing, causing litter to blow into the park. Located near 250 Oak Ave."
+CIV-1066,2026-05-25 00:15:00,Safety,Broken Traffic Signal,Zone B (East/Industrial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 74 Broadway.
+CIV-1124,2026-05-25 01:19:00,Safety,Broken Traffic Signal,Zone D (West/Downtown),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 208 Pine Rd.
+CIV-1158,2026-05-25 01:23:00,Safety,Street Light Out,Zone C (South/Commercial),Medium,In Progress,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 246 Industrial Blvd."
+CIV-1084,2026-05-25 04:09:00,Safety,Broken Traffic Signal,Zone C (South/Commercial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 295 Oak Ave.
+CIV-1060,2026-05-25 06:53:00,Safety,Street Light Out,Zone D (West/Downtown),High,Resolved,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 254 Industrial Blvd."
+CIV-1088,2026-05-25 07:18:00,Public Services,Missed Trash Collection,Zone C (South/Commercial),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 145 Broadway.
+CIV-1083,2026-05-25 08:55:00,Safety,Street Light Out,Zone D (West/Downtown),High,Resolved,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 261 Industrial Blvd."
+CIV-1110,2026-05-25 09:22:00,Public Services,Overfilled Public Bin,Zone C (South/Commercial),Medium,Resolved,"Public trash can is overflowing, causing litter to blow into the park. Located near 281 Broadway."
+CIV-1055,2026-05-25 17:15:00,Public Services,Overfilled Public Bin,Zone A (North/Residential),Low,In Progress,"Public trash can is overflowing, causing litter to blow into the park. Located near 351 River Rd."
+CIV-1028,2026-05-25 18:47:00,Infrastructure,Pothole,Zone A (North/Residential),Medium,In Progress,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 309 Main St.
+CIV-1186,2026-05-25 20:21:00,Safety,Sidewalk Obstruction,Zone C (South/Commercial),Low,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 214 Industrial Blvd."
+CIV-1162,2026-05-25 20:41:00,Safety,Sidewalk Obstruction,Zone C (South/Commercial),Low,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 295 Oak Ave."
+CIV-1023,2026-05-25 21:41:00,Safety,Hazardous Tree Branch,Zone A (North/Residential),High,In Progress,"Large tree branch hanging low over the road, blocking visibility. Located near 419 Elm St."
+CIV-1012,2026-05-26 01:55:00,Environment,Excessive Noise,Zone A (North/Residential),High,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 315 Industrial Blvd.
+CIV-1138,2026-05-26 02:53:00,Safety,Hazardous Tree Branch,Zone A (North/Residential),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 391 Oak Ave."
+CIV-1135,2026-05-26 04:17:00,Public Services,Park Maintenance Request,Zone C (South/Commercial),Low,Resolved,Playground equipment is broken (swings detached) and grass is overgrown. Located near 268 River Rd.
+CIV-1092,2026-05-26 07:43:00,Infrastructure,Pothole,Zone A (North/Residential),Medium,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 250 Pine Rd.
+CIV-1007,2026-05-26 07:55:00,Public Services,Park Maintenance Request,Zone A (North/Residential),Medium,Resolved,Playground equipment is broken (swings detached) and grass is overgrown. Located near 335 River Rd.
+CIV-1188,2026-05-26 13:38:00,Infrastructure,Damaged Guardrail,Zone B (East/Industrial),Medium,Resolved,Highway guardrail is crushed from a previous accident and needs replacement. Located near 50 Oak Ave.
+CIV-1053,2026-05-26 14:26:00,Safety,Hazardous Tree Branch,Zone B (East/Industrial),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 214 River Rd."
+CIV-1065,2026-05-26 15:01:00,Infrastructure,Water Main Leak,Zone A (North/Residential),High,In Progress,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 409 Oak Ave."
+CIV-1157,2026-05-26 15:28:00,Infrastructure,Pothole,Zone C (South/Commercial),High,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 269 Elm St.
+CIV-1154,2026-05-26 16:40:00,Environment,Air Quality Alert,Zone A (North/Residential),Low,In Progress,Strong chemical odor detected in the air near the industrial park. Located near 382 Elm St.
+CIV-1058,2026-05-26 22:18:00,Environment,Air Quality Alert,Zone B (East/Industrial),High,Resolved,Strong chemical odor detected in the air near the industrial park. Located near 80 Oak Ave.
+CIV-1038,2026-05-26 22:57:00,Infrastructure,Damaged Guardrail,Zone B (East/Industrial),High,Resolved,Highway guardrail is crushed from a previous accident and needs replacement. Located near 230 Pine Rd.
+CIV-1149,2026-05-27 00:31:00,Safety,Hazardous Tree Branch,Zone D (West/Downtown),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 266 Broadway."
+CIV-1194,2026-05-27 00:47:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,Resolved,Tap water appears cloudy and has an unusual chlorine odor. Located near 144 Oak Ave.
+CIV-1016,2026-05-27 11:56:00,Environment,Illegal Dumping,Zone C (South/Commercial),Medium,Resolved,"Trash, furniture, and tires dumped on the side of the road. Located near 300 Broadway."
+CIV-1067,2026-05-27 18:13:00,Infrastructure,Damaged Guardrail,Zone D (West/Downtown),Low,In Progress,Highway guardrail is crushed from a previous accident and needs replacement. Located near 320 Pine Rd.
+CIV-1109,2026-05-27 20:45:00,Public Services,Overfilled Public Bin,Zone A (North/Residential),High,Resolved,"Public trash can is overflowing, causing litter to blow into the park. Located near 24 Maple Ln."
+CIV-1131,2026-05-28 00:22:00,Infrastructure,Pothole,Zone B (East/Industrial),High,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 145 Pine Rd.
+CIV-1118,2026-05-28 02:58:00,Infrastructure,Graffiti on Public Building,Zone C (South/Commercial),High,Resolved,Vandalism and spray paint on the community center walls. Located near 112 Pine Rd.
+CIV-1112,2026-05-28 07:29:00,Public Services,Park Maintenance Request,Zone C (South/Commercial),Medium,In Progress,Playground equipment is broken (swings detached) and grass is overgrown. Located near 421 Main St.
+CIV-1176,2026-05-28 22:30:00,Infrastructure,Pothole,Zone D (West/Downtown),High,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 141 Main St.
+CIV-1171,2026-05-29 06:51:00,Public Services,Missed Trash Collection,Zone B (East/Industrial),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 200 River Rd.
+CIV-1087,2026-05-29 07:11:00,Environment,Illegal Dumping,Zone A (North/Residential),Medium,Resolved,"Trash, furniture, and tires dumped on the side of the road. Located near 240 Industrial Blvd."
+CIV-1090,2026-05-29 09:38:00,Public Services,Missed Trash Collection,Zone C (South/Commercial),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 362 River Rd.
+CIV-1079,2026-05-30 10:07:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,Resolved,Tap water appears cloudy and has an unusual chlorine odor. Located near 380 Maple Ln.
+CIV-1166,2026-05-30 10:49:00,Safety,Broken Traffic Signal,Zone D (West/Downtown),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 49 Pine Rd.
+CIV-1049,2026-05-30 13:42:00,Infrastructure,Water Main Leak,Zone D (West/Downtown),High,Resolved,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 217 Maple Ln."
+CIV-1003,2026-05-30 22:41:00,Safety,Sidewalk Obstruction,Zone D (West/Downtown),High,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 398 Main St."
+CIV-1155,2026-05-31 03:09:00,Environment,Excessive Noise,Zone C (South/Commercial),Low,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 399 Pine Rd.
+CIV-1052,2026-05-31 06:09:00,Safety,Broken Traffic Signal,Zone A (North/Residential),High,In Progress,The traffic signal at the main intersection is flashing red/not working. Located near 322 River Rd.
+CIV-1024,2026-05-31 06:12:00,Safety,Broken Traffic Signal,Zone D (West/Downtown),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 246 Maple Ln.
+CIV-1077,2026-05-31 12:44:00,Environment,Air Quality Alert,Zone B (East/Industrial),Low,Resolved,Strong chemical odor detected in the air near the industrial park. Located near 293 River Rd.
+CIV-1198,2026-05-31 15:01:00,Infrastructure,Graffiti on Public Building,Zone C (South/Commercial),High,Resolved,Vandalism and spray paint on the community center walls. Located near 323 Pine Rd.
+CIV-1179,2026-05-31 22:09:00,Public Services,Missed Trash Collection,Zone C (South/Commercial),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 133 Elm St.
+CIV-1045,2026-06-01 01:06:00,Safety,Sidewalk Obstruction,Zone D (West/Downtown),Low,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 320 Industrial Blvd."
+CIV-1010,2026-06-01 02:13:00,Environment,Water Quality Concern,Zone C (South/Commercial),High,Resolved,Tap water appears cloudy and has an unusual chlorine odor. Located near 339 Industrial Blvd.
+CIV-1011,2026-06-01 04:15:00,Public Services,Public Transit Delay,Zone C (South/Commercial),High,Resolved,Consistent bus delays on Route 12 during peak morning hours. Located near 122 Elm St.
+CIV-1093,2026-06-01 05:37:00,Infrastructure,Graffiti on Public Building,Zone D (West/Downtown),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 250 Oak Ave.
+CIV-1075,2026-06-01 10:17:00,Safety,Broken Traffic Signal,Zone C (South/Commercial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 133 Oak Ave.
+CIV-1064,2026-06-01 12:20:00,Environment,Air Quality Alert,Zone B (East/Industrial),Medium,Resolved,Strong chemical odor detected in the air near the industrial park. Located near 152 Industrial Blvd.
+CIV-1091,2026-06-01 16:34:00,Infrastructure,Pothole,Zone D (West/Downtown),Medium,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 386 Industrial Blvd.
+CIV-1122,2026-06-01 18:24:00,Safety,Broken Traffic Signal,Zone C (South/Commercial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 22 River Rd.
+CIV-1009,2026-06-01 20:44:00,Infrastructure,Pothole,Zone B (East/Industrial),High,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 430 Broadway.
+CIV-1163,2026-06-01 23:54:00,Environment,Excessive Noise,Zone B (East/Industrial),Low,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 168 Elm St.
+CIV-1081,2026-06-02 00:45:00,Environment,Illegal Dumping,Zone B (East/Industrial),Medium,Resolved,"Trash, furniture, and tires dumped on the side of the road. Located near 367 Maple Ln."
+CIV-1197,2026-06-02 05:45:00,Safety,Broken Traffic Signal,Zone B (East/Industrial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 112 Oak Ave.
+CIV-1189,2026-06-02 14:38:00,Safety,Hazardous Tree Branch,Zone D (West/Downtown),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 238 Elm St."
+CIV-1006,2026-06-02 20:39:00,Environment,Illegal Dumping,Zone C (South/Commercial),High,Resolved,"Trash, furniture, and tires dumped on the side of the road. Located near 348 Main St."
+CIV-1120,2026-06-03 03:29:00,Environment,Excessive Noise,Zone A (North/Residential),Low,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 443 Industrial Blvd.
+CIV-1152,2026-06-03 05:51:00,Public Services,Park Maintenance Request,Zone D (West/Downtown),High,Resolved,Playground equipment is broken (swings detached) and grass is overgrown. Located near 233 Oak Ave.
+CIV-1073,2026-06-03 07:53:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 394 Broadway.
+CIV-1004,2026-06-03 08:09:00,Public Services,Park Maintenance Request,Zone B (East/Industrial),Medium,Resolved,Playground equipment is broken (swings detached) and grass is overgrown. Located near 57 Oak Ave.
+CIV-1143,2026-06-03 11:00:00,Public Services,Public Transit Delay,Zone B (East/Industrial),Low,Resolved,Consistent bus delays on Route 12 during peak morning hours. Located near 82 Oak Ave.
+CIV-1151,2026-06-03 18:27:00,Public Services,Public Transit Delay,Zone D (West/Downtown),Medium,Resolved,Consistent bus delays on Route 12 during peak morning hours. Located near 68 Maple Ln.
+CIV-1094,2026-06-03 21:06:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,In Progress,Tap water appears cloudy and has an unusual chlorine odor. Located near 349 Maple Ln.
+CIV-1039,2026-06-04 01:57:00,Environment,Excessive Noise,Zone C (South/Commercial),Low,In Progress,Loud music and industrial noise coming from the commercial zone past midnight. Located near 191 Oak Ave.
+CIV-1008,2026-06-04 06:42:00,Safety,Broken Traffic Signal,Zone C (South/Commercial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 93 Broadway.
+CIV-1174,2026-06-04 07:24:00,Infrastructure,Water Main Leak,Zone A (North/Residential),High,In Progress,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 173 Main St."
+CIV-1181,2026-06-04 08:47:00,Infrastructure,Pothole,Zone A (North/Residential),Medium,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 133 Elm St.
+CIV-1164,2026-06-05 04:38:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),High,Resolved,Vandalism and spray paint on the community center walls. Located near 426 Elm St.
+CIV-1187,2026-06-05 10:11:00,Infrastructure,Damaged Guardrail,Zone D (West/Downtown),High,Resolved,Highway guardrail is crushed from a previous accident and needs replacement. Located near 420 Maple Ln.
+CIV-1069,2026-06-05 12:45:00,Environment,Excessive Noise,Zone B (East/Industrial),Medium,In Progress,Loud music and industrial noise coming from the commercial zone past midnight. Located near 366 Oak Ave.
+CIV-1199,2026-06-05 22:46:00,Infrastructure,Graffiti on Public Building,Zone D (West/Downtown),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 74 Oak Ave.
+CIV-1014,2026-06-06 05:29:00,Infrastructure,Water Main Leak,Zone A (North/Residential),High,Resolved,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 330 Oak Ave."
+CIV-1022,2026-06-06 06:06:00,Public Services,Park Maintenance Request,Zone A (North/Residential),Medium,In Progress,Playground equipment is broken (swings detached) and grass is overgrown. Located near 220 Industrial Blvd.
+CIV-1100,2026-06-06 15:30:00,Environment,Excessive Noise,Zone B (East/Industrial),Low,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 107 Industrial Blvd.
+CIV-1040,2026-06-06 19:47:00,Public Services,Overfilled Public Bin,Zone B (East/Industrial),High,In Progress,"Public trash can is overflowing, causing litter to blow into the park. Located near 419 Pine Rd."
+CIV-1178,2026-06-06 20:50:00,Safety,Hazardous Tree Branch,Zone D (West/Downtown),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 333 Main St."
+CIV-1134,2026-06-06 21:06:00,Public Services,Public Transit Delay,Zone D (West/Downtown),Medium,Resolved,Consistent bus delays on Route 12 during peak morning hours. Located near 51 Oak Ave.
+CIV-1140,2026-06-06 23:03:00,Infrastructure,Damaged Guardrail,Zone C (South/Commercial),Low,Resolved,Highway guardrail is crushed from a previous accident and needs replacement. Located near 305 Oak Ave.
+CIV-1184,2026-06-07 01:18:00,Environment,Excessive Noise,Zone B (East/Industrial),Medium,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 171 Main St.
+CIV-1193,2026-06-07 02:36:00,Infrastructure,Graffiti on Public Building,Zone B (East/Industrial),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 342 Elm St.
+CIV-1019,2026-06-07 03:15:00,Environment,Illegal Dumping,Zone B (East/Industrial),High,Resolved,"Trash, furniture, and tires dumped on the side of the road. Located near 311 Broadway."
+CIV-1057,2026-06-07 08:48:00,Safety,Sidewalk Obstruction,Zone B (East/Industrial),High,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 330 River Rd."
+CIV-1114,2026-06-07 09:12:00,Public Services,Missed Trash Collection,Zone D (West/Downtown),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 205 Broadway.
+CIV-1200,2026-06-07 14:43:00,Environment,Excessive Noise,Zone C (South/Commercial),Low,In Progress,Loud music and industrial noise coming from the commercial zone past midnight. Located near 231 Pine Rd.
+CIV-1169,2026-06-07 19:18:00,Safety,Broken Traffic Signal,Zone D (West/Downtown),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 424 Maple Ln.
+CIV-1062,2026-06-08 00:24:00,Public Services,Overfilled Public Bin,Zone C (South/Commercial),Low,In Progress,"Public trash can is overflowing, causing litter to blow into the park. Located near 75 River Rd."
+CIV-1105,2026-06-08 01:08:00,Safety,Hazardous Tree Branch,Zone C (South/Commercial),High,Open,"Large tree branch hanging low over the road, blocking visibility. Located near 279 Oak Ave."
+CIV-1017,2026-06-08 02:48:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,In Progress,Tap water appears cloudy and has an unusual chlorine odor. Located near 145 Pine Rd.
+CIV-1098,2026-06-08 03:01:00,Safety,Sidewalk Obstruction,Zone B (East/Industrial),Medium,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 292 Main St."
+CIV-1021,2026-06-08 06:34:00,Safety,Hazardous Tree Branch,Zone B (East/Industrial),High,In Progress,"Large tree branch hanging low over the road, blocking visibility. Located near 411 Broadway."
+CIV-1026,2026-06-08 15:13:00,Environment,Excessive Noise,Zone D (West/Downtown),Medium,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 11 Industrial Blvd.
+CIV-1108,2026-06-08 17:02:00,Environment,Air Quality Alert,Zone A (North/Residential),High,In Progress,Strong chemical odor detected in the air near the industrial park. Located near 392 Broadway.
+CIV-1076,2026-06-08 17:48:00,Infrastructure,Graffiti on Public Building,Zone B (East/Industrial),High,Resolved,Vandalism and spray paint on the community center walls. Located near 415 River Rd.
+CIV-1126,2026-06-08 19:26:00,Safety,Sidewalk Obstruction,Zone C (South/Commercial),Medium,Open,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 237 Broadway."
+CIV-1147,2026-06-09 03:22:00,Safety,Hazardous Tree Branch,Zone D (West/Downtown),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 33 Maple Ln."
+CIV-1132,2026-06-09 03:47:00,Public Services,Public Transit Delay,Zone A (North/Residential),Low,Resolved,Consistent bus delays on Route 12 during peak morning hours. Located near 272 Elm St.
+CIV-1029,2026-06-09 05:03:00,Environment,Illegal Dumping,Zone A (North/Residential),Medium,In Progress,"Trash, furniture, and tires dumped on the side of the road. Located near 355 Oak Ave."
+CIV-1133,2026-06-09 07:39:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),Medium,Open,Vandalism and spray paint on the community center walls. Located near 41 Main St.
+CIV-1036,2026-06-09 15:16:00,Safety,Hazardous Tree Branch,Zone A (North/Residential),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 32 Maple Ln."
+CIV-1051,2026-06-09 15:50:00,Infrastructure,Damaged Guardrail,Zone B (East/Industrial),High,In Progress,Highway guardrail is crushed from a previous accident and needs replacement. Located near 57 Elm St.
+CIV-1161,2026-06-09 19:10:00,Infrastructure,Damaged Guardrail,Zone C (South/Commercial),Medium,In Progress,Highway guardrail is crushed from a previous accident and needs replacement. Located near 219 Industrial Blvd.
+CIV-1035,2026-06-10 04:17:00,Environment,Air Quality Alert,Zone C (South/Commercial),Low,Open,Strong chemical odor detected in the air near the industrial park. Located near 361 Broadway.
+CIV-1123,2026-06-10 10:58:00,Infrastructure,Graffiti on Public Building,Zone B (East/Industrial),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 342 Maple Ln.
+CIV-1103,2026-06-10 17:24:00,Environment,Excessive Noise,Zone D (West/Downtown),Medium,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 302 Broadway.
+CIV-1047,2026-06-10 21:46:00,Environment,Illegal Dumping,Zone B (East/Industrial),Medium,Open,"Trash, furniture, and tires dumped on the side of the road. Located near 329 Elm St."
+CIV-1153,2026-06-11 12:33:00,Public Services,Park Maintenance Request,Zone A (North/Residential),Medium,In Progress,Playground equipment is broken (swings detached) and grass is overgrown. Located near 123 Elm St.
+CIV-1086,2026-06-11 13:19:00,Safety,Broken Traffic Signal,Zone A (North/Residential),High,In Progress,The traffic signal at the main intersection is flashing red/not working. Located near 145 Broadway.
+CIV-1130,2026-06-12 00:17:00,Public Services,Park Maintenance Request,Zone B (East/Industrial),Low,Open,Playground equipment is broken (swings detached) and grass is overgrown. Located near 66 Pine Rd.
+CIV-1148,2026-06-12 01:00:00,Environment,Excessive Noise,Zone B (East/Industrial),Medium,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 401 Pine Rd.
+CIV-1070,2026-06-12 03:50:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),Low,In Progress,Vandalism and spray paint on the community center walls. Located near 45 Elm St.
+CIV-1056,2026-06-12 10:48:00,Infrastructure,Graffiti on Public Building,Zone D (West/Downtown),Low,Open,Vandalism and spray paint on the community center walls. Located near 91 River Rd.
+CIV-1018,2026-06-12 13:13:00,Safety,Hazardous Tree Branch,Zone B (East/Industrial),High,Open,"Large tree branch hanging low over the road, blocking visibility. Located near 234 Elm St."
+CIV-1013,2026-06-12 14:33:00,Safety,Street Light Out,Zone C (South/Commercial),Medium,Resolved,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 403 Maple Ln."
+CIV-1085,2026-06-12 19:50:00,Safety,Hazardous Tree Branch,Zone B (East/Industrial),High,Resolved,"Large tree branch hanging low over the road, blocking visibility. Located near 236 River Rd."
+CIV-1020,2026-06-13 01:14:00,Safety,Sidewalk Obstruction,Zone A (North/Residential),High,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 273 Oak Ave."
+CIV-1001,2026-06-13 03:01:00,Environment,Excessive Noise,Zone C (South/Commercial),High,In Progress,Loud music and industrial noise coming from the commercial zone past midnight. Located near 387 Pine Rd.
+CIV-1097,2026-06-13 14:48:00,Environment,Air Quality Alert,Zone A (North/Residential),Medium,Open,Strong chemical odor detected in the air near the industrial park. Located near 157 Pine Rd.
+CIV-1015,2026-06-13 16:38:00,Environment,Excessive Noise,Zone B (East/Industrial),Medium,In Progress,Loud music and industrial noise coming from the commercial zone past midnight. Located near 316 Main St.
+CIV-1054,2026-06-13 22:00:00,Public Services,Overfilled Public Bin,Zone A (North/Residential),Low,In Progress,"Public trash can is overflowing, causing litter to blow into the park. Located near 421 Pine Rd."
+CIV-1146,2026-06-14 02:17:00,Infrastructure,Graffiti on Public Building,Zone D (West/Downtown),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 222 River Rd.
+CIV-1180,2026-06-14 02:33:00,Safety,Street Light Out,Zone C (South/Commercial),High,Resolved,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 250 Industrial Blvd."
+CIV-1117,2026-06-14 04:40:00,Safety,Sidewalk Obstruction,Zone A (North/Residential),Low,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 27 River Rd."
+CIV-1089,2026-06-14 06:27:00,Environment,Excessive Noise,Zone A (North/Residential),High,Resolved,Loud music and industrial noise coming from the commercial zone past midnight. Located near 433 Maple Ln.
+CIV-1150,2026-06-14 11:04:00,Public Services,Missed Trash Collection,Zone D (West/Downtown),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 19 Industrial Blvd.
+CIV-1074,2026-06-14 12:21:00,Public Services,Park Maintenance Request,Zone A (North/Residential),High,Resolved,Playground equipment is broken (swings detached) and grass is overgrown. Located near 259 Pine Rd.
+CIV-1141,2026-06-14 15:14:00,Infrastructure,Damaged Guardrail,Zone A (North/Residential),Medium,In Progress,Highway guardrail is crushed from a previous accident and needs replacement. Located near 400 Oak Ave.
+CIV-1113,2026-06-14 17:10:00,Public Services,Park Maintenance Request,Zone A (North/Residential),Medium,In Progress,Playground equipment is broken (swings detached) and grass is overgrown. Located near 337 Maple Ln.
+CIV-1125,2026-06-14 23:44:00,Infrastructure,Water Main Leak,Zone D (West/Downtown),High,Resolved,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 345 Industrial Blvd."
+CIV-1068,2026-06-15 03:49:00,Public Services,Missed Trash Collection,Zone B (East/Industrial),Medium,Open,Scheduled trash pickup did not occur for the entire block. Located near 169 Main St.
+CIV-1059,2026-06-15 04:45:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,In Progress,Tap water appears cloudy and has an unusual chlorine odor. Located near 287 Elm St.
+CIV-1115,2026-06-15 09:01:00,Safety,Street Light Out,Zone D (West/Downtown),Medium,Resolved,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 436 River Rd."
+CIV-1034,2026-06-15 09:39:00,Infrastructure,Pothole,Zone A (North/Residential),High,Resolved,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 145 Pine Rd.
+CIV-1031,2026-06-15 10:15:00,Public Services,Overfilled Public Bin,Zone C (South/Commercial),Medium,Open,"Public trash can is overflowing, causing litter to blow into the park. Located near 244 Maple Ln."
+CIV-1107,2026-06-15 12:41:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),Low,Open,Vandalism and spray paint on the community center walls. Located near 330 Elm St.
+CIV-1195,2026-06-15 14:13:00,Public Services,Overfilled Public Bin,Zone C (South/Commercial),High,In Progress,"Public trash can is overflowing, causing litter to blow into the park. Located near 79 Oak Ave."
+CIV-1159,2026-06-16 01:28:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,In Progress,Tap water appears cloudy and has an unusual chlorine odor. Located near 41 Pine Rd.
+CIV-1137,2026-06-16 03:20:00,Safety,Sidewalk Obstruction,Zone D (West/Downtown),Low,Open,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 88 Elm St."
+CIV-1048,2026-06-16 09:32:00,Public Services,Park Maintenance Request,Zone C (South/Commercial),Medium,In Progress,Playground equipment is broken (swings detached) and grass is overgrown. Located near 366 Industrial Blvd.
+CIV-1145,2026-06-16 10:49:00,Safety,Broken Traffic Signal,Zone A (North/Residential),High,In Progress,The traffic signal at the main intersection is flashing red/not working. Located near 396 Pine Rd.
+CIV-1072,2026-06-16 16:41:00,Public Services,Public Transit Delay,Zone C (South/Commercial),Low,In Progress,Consistent bus delays on Route 12 during peak morning hours. Located near 432 Industrial Blvd.
+CIV-1078,2026-06-16 17:21:00,Public Services,Park Maintenance Request,Zone C (South/Commercial),High,Resolved,Playground equipment is broken (swings detached) and grass is overgrown. Located near 138 Maple Ln.
+CIV-1177,2026-06-16 19:33:00,Safety,Sidewalk Obstruction,Zone D (West/Downtown),High,Resolved,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 164 Broadway."
+CIV-1037,2026-06-17 04:40:00,Environment,Water Quality Concern,Zone C (South/Commercial),High,Resolved,Tap water appears cloudy and has an unusual chlorine odor. Located near 297 Industrial Blvd.
+CIV-1044,2026-06-17 08:22:00,Infrastructure,Damaged Guardrail,Zone D (West/Downtown),Medium,Resolved,Highway guardrail is crushed from a previous accident and needs replacement. Located near 69 Main St.
+CIV-1061,2026-06-17 12:54:00,Infrastructure,Water Main Leak,Zone D (West/Downtown),High,Resolved,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 122 River Rd."
+CIV-1104,2026-06-17 13:02:00,Public Services,Public Transit Delay,Zone C (South/Commercial),Low,Open,Consistent bus delays on Route 12 during peak morning hours. Located near 349 Industrial Blvd.
+CIV-1082,2026-06-17 15:06:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),Medium,Resolved,Vandalism and spray paint on the community center walls. Located near 235 River Rd.
+CIV-1080,2026-06-17 16:38:00,Safety,Broken Traffic Signal,Zone C (South/Commercial),High,Resolved,The traffic signal at the main intersection is flashing red/not working. Located near 126 Maple Ln.
+CIV-1182,2026-06-17 18:47:00,Environment,Illegal Dumping,Zone C (South/Commercial),Medium,In Progress,"Trash, furniture, and tires dumped on the side of the road. Located near 289 Elm St."
+CIV-1192,2026-06-17 20:23:00,Public Services,Missed Trash Collection,Zone C (South/Commercial),Medium,Resolved,Scheduled trash pickup did not occur for the entire block. Located near 357 Pine Rd.
+CIV-1156,2026-06-17 20:31:00,Public Services,Public Transit Delay,Zone D (West/Downtown),Medium,Resolved,Consistent bus delays on Route 12 during peak morning hours. Located near 331 Elm St.
+CIV-1167,2026-06-18 03:32:00,Infrastructure,Water Main Leak,Zone A (North/Residential),High,In Progress,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 88 Industrial Blvd."
+CIV-1139,2026-06-18 04:35:00,Infrastructure,Pothole,Zone A (North/Residential),Medium,Open,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 191 Industrial Blvd.
+CIV-1111,2026-06-18 05:10:00,Environment,Water Quality Concern,Zone B (East/Industrial),High,Open,Tap water appears cloudy and has an unusual chlorine odor. Located near 264 Broadway.
+CIV-1116,2026-06-18 07:38:00,Environment,Excessive Noise,Zone C (South/Commercial),Low,Open,Loud music and industrial noise coming from the commercial zone past midnight. Located near 357 Maple Ln.
+CIV-1160,2026-06-18 10:45:00,Environment,Illegal Dumping,Zone A (North/Residential),Medium,In Progress,"Trash, furniture, and tires dumped on the side of the road. Located near 372 Broadway."
+CIV-1121,2026-06-18 12:00:00,Safety,Hazardous Tree Branch,Zone C (South/Commercial),High,Open,"Large tree branch hanging low over the road, blocking visibility. Located near 354 Elm St."
+CIV-1142,2026-06-18 13:54:00,Infrastructure,Pothole,Zone A (North/Residential),Medium,In Progress,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 149 Pine Rd.
+CIV-1027,2026-06-18 14:18:00,Infrastructure,Graffiti on Public Building,Zone D (West/Downtown),Medium,In Progress,Vandalism and spray paint on the community center walls. Located near 107 Pine Rd.
+CIV-1129,2026-06-18 18:13:00,Environment,Excessive Noise,Zone A (North/Residential),High,Open,Loud music and industrial noise coming from the commercial zone past midnight. Located near 178 Broadway.
+CIV-1136,2026-06-18 22:07:00,Environment,Excessive Noise,Zone B (East/Industrial),Medium,In Progress,Loud music and industrial noise coming from the commercial zone past midnight. Located near 183 Industrial Blvd.
+CIV-1191,2026-06-18 23:43:00,Public Services,Overfilled Public Bin,Zone B (East/Industrial),High,In Progress,"Public trash can is overflowing, causing litter to blow into the park. Located near 27 River Rd."
+CIV-1096,2026-06-19 00:42:00,Infrastructure,Water Main Leak,Zone D (West/Downtown),High,Open,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 328 Elm St."
+CIV-1099,2026-06-19 03:29:00,Environment,Water Quality Concern,Zone A (North/Residential),High,Open,Tap water appears cloudy and has an unusual chlorine odor. Located near 270 Maple Ln.
+CIV-1173,2026-06-19 13:05:00,Safety,Sidewalk Obstruction,Zone B (East/Industrial),High,In Progress,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 222 Main St."
+CIV-1095,2026-06-19 17:02:00,Safety,Sidewalk Obstruction,Zone D (West/Downtown),Medium,Open,"Construction materials are blocking the sidewalk, forcing pedestrians into the street. Located near 69 Elm St."
+CIV-1185,2026-06-19 17:30:00,Safety,Broken Traffic Signal,Zone C (South/Commercial),High,Open,The traffic signal at the main intersection is flashing red/not working. Located near 192 Maple Ln.
+CIV-1183,2026-06-19 21:29:00,Infrastructure,Water Main Leak,Zone D (West/Downtown),High,Open,"Water is bubbling up from the pavement, flooding the street and sidewalk. Located near 376 Oak Ave."
+CIV-1175,2026-06-19 22:41:00,Environment,Excessive Noise,Zone C (South/Commercial),Medium,Open,Loud music and industrial noise coming from the commercial zone past midnight. Located near 156 Main St.
+CIV-1168,2026-06-19 22:49:00,Safety,Street Light Out,Zone B (East/Industrial),Medium,In Progress,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 196 Industrial Blvd."
+CIV-1165,2026-06-19 23:43:00,Public Services,Park Maintenance Request,Zone A (North/Residential),Medium,In Progress,Playground equipment is broken (swings detached) and grass is overgrown. Located near 195 Main St.
+CIV-1042,2026-06-20 01:54:00,Safety,Hazardous Tree Branch,Zone D (West/Downtown),High,Open,"Large tree branch hanging low over the road, blocking visibility. Located near 166 Elm St."
+CIV-1043,2026-06-20 07:14:00,Environment,Water Quality Concern,Zone A (North/Residential),High,Open,Tap water appears cloudy and has an unusual chlorine odor. Located near 152 Elm St.
+CIV-1127,2026-06-20 11:06:00,Infrastructure,Pothole,Zone C (South/Commercial),High,In Progress,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 151 Industrial Blvd.
+CIV-1005,2026-06-20 11:38:00,Safety,Hazardous Tree Branch,Zone C (South/Commercial),High,In Progress,"Large tree branch hanging low over the road, blocking visibility. Located near 203 Oak Ave."
+CIV-1190,2026-06-20 11:39:00,Safety,Street Light Out,Zone D (West/Downtown),Medium,In Progress,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 353 Oak Ave."
+CIV-1128,2026-06-20 14:05:00,Infrastructure,Pothole,Zone B (East/Industrial),Medium,Open,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 412 Main St.
+CIV-1172,2026-06-20 16:54:00,Infrastructure,Pothole,Zone A (North/Residential),Medium,Open,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 149 Pine Rd.
+CIV-1101,2026-06-21 04:55:00,Infrastructure,Graffiti on Public Building,Zone A (North/Residential),Low,In Progress,Vandalism and spray paint on the community center walls. Located near 413 Elm St.
+CIV-1170,2026-06-21 06:23:00,Infrastructure,Damaged Guardrail,Zone D (West/Downtown),Low,In Progress,Highway guardrail is crushed from a previous accident and needs replacement. Located near 267 Industrial Blvd.
+CIV-1119,2026-06-21 11:33:00,Environment,Air Quality Alert,Zone C (South/Commercial),Medium,Open,Strong chemical odor detected in the air near the industrial park. Located near 422 River Rd.
+CIV-1002,2026-06-21 17:05:00,Safety,Street Light Out,Zone D (West/Downtown),Medium,In Progress,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 129 Broadway."
+CIV-1046,2026-06-21 18:12:00,Safety,Hazardous Tree Branch,Zone C (South/Commercial),High,Open,"Large tree branch hanging low over the road, blocking visibility. Located near 276 Main St."
+CIV-1030,2026-06-21 18:15:00,Safety,Hazardous Tree Branch,Zone A (North/Residential),High,In Progress,"Large tree branch hanging low over the road, blocking visibility. Located near 143 Elm St."
+CIV-1196,2026-06-21 22:28:00,Infrastructure,Damaged Guardrail,Zone A (North/Residential),Low,In Progress,Highway guardrail is crushed from a previous accident and needs replacement. Located near 291 Oak Ave.
+CIV-1032,2026-06-22 02:00:00,Infrastructure,Pothole,Zone D (West/Downtown),High,In Progress,Deep pothole causing drivers to swerve dangerously to avoid damage. Located near 285 Oak Ave.
+CIV-1025,2026-06-22 02:28:00,Safety,Street Light Out,Zone A (North/Residential),Medium,In Progress,"Street light is broken, making the sidewalk extremely dark and unsafe at night. Located near 395 Oak Ave."
+CIV-1033,2026-06-22 11:56:00,Environment,Air Quality Alert,Zone A (North/Residential),Medium,Open,Strong chemical odor detected in the air near the industrial park. Located near 90 Maple Ln.
+CIV-1063,2026-06-22 12:37:00,Safety,Hazardous Tree Branch,Zone A (North/Residential),High,In Progress,"Large tree branch hanging low over the road, blocking visibility. Located near 246 Pine Rd."
